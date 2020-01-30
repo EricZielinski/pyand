@@ -1,4 +1,4 @@
-pkgname=python2-pyand-git
+pkgname=python3-pyand-git
 pkgver=r54.f90701b
 pkgrel=2
 pkgdesc="A Python wrapper library for ADB and Fastboot"
